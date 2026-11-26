@@ -1,27 +1,20 @@
 <div align="center">
-
-<!-- Animated Cyber Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:00f2fe&height=210&section=header&text=Kovvakula%20Nikhil&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Kovvakula Nikhil Banner" />
-
-<!-- Dynamic Typing Subtitle -->
-<a href="https://portfolio-five-flame-ssqtzcgqd6.vercel.app" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI+%26+ML)+%40+VNR+VJIET+%7C+Diploma+in+AI%2FML+(9.0%2F10);Engineering+GenAI%2C+RAG+Pipelines+%26+Multi-Agent+Systems;Building+End-to-End+Full-Stack+Web+%26+Real-Time+Apps;Smart+India+Hackathon+2026+Builder+(NTRO+-+SIH26154)" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Quick Action Pills -->
-<a href="https://portfolio-five-flame-ssqtzcgqd6.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live_AI_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=0f172a" alt="Live Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/nikhil-kovvakula-34a385336" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:kovvakulanikhil57@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=nikhil-kovvakula&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile Views" />
-
+  <img src="./assets/header.svg" width="100%" alt="Kovvakula Nikhil Banner" />
+  <br/>
+  <a href="https://portfolio-five-flame-ssqtzcgqd6.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+%40+VNR+VJIET+%7C+Diploma+in+AI%2FML+(9.0%2F10);Engineering+GenAI%2C+RAG+Pipelines+%26+Multi-Agent+Systems;Building+End-to-End+Full-Stack+Web+%26+Real-Time+Apps;Smart+India+Hackathon+2026+Builder+(NTRO+-+SIH26154)" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://portfolio-five-flame-ssqtzcgqd6.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_AI_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=0f172a" alt="Live Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-kovvakula-34a385336" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kovvakulanikhil57@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nikhil-kovvakula&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -130,42 +123,36 @@ status: "Open to Internships 🚀"
 ## 🏆 Competitive Programming & Socials
 
 <div align="center">
-
-**Problem Solving & Coding Profiles**
-<br/>
-<a href="https://leetcode.com/u/kovvakulanikhil1/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-kovvakulanikhil1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://codeforces.com/profile/nikhil__kk" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-nikhil____kk-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<a href="https://www.codechef.com/users/nikhil_k4" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-nikhil__k4-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-<a href="https://www.hackerrank.com/profile/kovvakulanikhil1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-kovvakulanikhil1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-
-<br/><br/>
-
-**Connect With Me**
-<br/>
-<a href="https://www.linkedin.com/in/nikhil-kovvakula-34a385336" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nikhil_Kovvakula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://portfolio-five-flame-ssqtzcgqd6.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Demo-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0f172a" alt="Portfolio" />
-</a>
-<a href="https://x.com/nikhil__kk" target="_blank">
-  <img src="https://img.shields.io/badge/X-@nikhil____kk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://www.instagram.com/nikhil__kk" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@nikhil____kk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:kovvakulanikhil57@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kovvakulanikhil57%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
+  <b>Problem Solving &amp; Coding Profiles</b><br/><br/>
+  <a href="https://leetcode.com/u/kovvakulanikhil1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-kovvakulanikhil1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/nikhil__kk" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-nikhil____kk-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/nikhil_k4" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-nikhil__k4-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kovvakulanikhil1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-kovvakulanikhil1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <br/><br/>
+  <b>Connect With Me</b><br/><br/>
+  <a href="https://www.linkedin.com/in/nikhil-kovvakula-34a385336" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil_Kovvakula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-five-flame-ssqtzcgqd6.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Demo-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0f172a" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/nikhil__kk" target="_blank">
+    <img src="https://img.shields.io/badge/X-@nikhil____kk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/nikhil__kk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@nikhil____kk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:kovvakulanikhil57@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kovvakulanikhil57%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 ---
@@ -173,51 +160,38 @@ status: "Open to Internships 🚀"
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-
-<!-- Stats & Streak Side-by-Side -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/nikhil-kovvakula">
-        <img src="https://github-readme-stats.vercel.app/api?username=nikhil-kovvakula&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00f2fe&icon_color=00f2fe&border_color=0e7490&bg_color=0f172a" alt="Nikhil GitHub Stats" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/nikhil-kovvakula">
-        <img src="https://streak-stats.demolab.com?user=nikhil-kovvakula&theme=tokyonight&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&border=0e7490&background=0f172a" alt="Nikhil GitHub Streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Auto-Generated Full-Year Isometric Calendar -->
-<img src="./fullyear.svg" alt="Full Year Contribution Calendar" />
-
-<br/><br/>
-
-<!-- Auto-Generated GitHub Metrics & Top Languages -->
-<img src="./github-metrics.svg" alt="GitHub Metrics" />
-<br/>
-<img src="./languages.svg" alt="Top Languages" />
-<br/>
-<img src="./achievements.svg" alt="GitHub Achievements" />
-
-<br/><br/>
-
-<!-- Auto-Generated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil-kovvakula/nikhil-kovvakula/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil-kovvakula/nikhil-kovvakula/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nikhil-kovvakula/nikhil-kovvakula/output/github-snake.svg" />
-</picture>
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/nikhil-kovvakula">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=nikhil-kovvakula&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00f2fe&icon_color=00f2fe&border_color=0e7490&bg_color=0f172a" alt="Nikhil GitHub Stats" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/nikhil-kovvakula">
+          <img src="https://streak-stats.demolab.com?user=nikhil-kovvakula&theme=tokyonight&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&border=0e7490&background=0f172a" alt="Nikhil GitHub Streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="./fullyear.svg" alt="Full Year Contribution Calendar" />
+  <br/><br/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <br/>
+  <img src="./languages.svg" alt="Top Languages" />
+  <br/>
+  <img src="./achievements.svg" alt="GitHub Achievements" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil-kovvakula/nikhil-kovvakula/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil-kovvakula/nikhil-kovvakula/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nikhil-kovvakula/nikhil-kovvakula/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=1400&color=00F2FE&center=true&vCenter=true&width=460&lines=Engineering+intelligence+from+data+to+deployment.;Thanks+for+visiting+my+GitHub!" alt="Footer Typing SVG" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:00f2fe&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>
